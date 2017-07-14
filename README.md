@@ -1,5 +1,5 @@
 # xda_dev
-Combined Repo for all the android developments at XDA
+Combined Repo of my android developments at XDA
 
 Details of Repository's :
 

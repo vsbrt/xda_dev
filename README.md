@@ -3,7 +3,7 @@ Combined Repo of my android developments at XDA
 
 Details of Repository's :
 
-1. Xperia-tipo-dual-processor-drivers (https://github.com/vsbrt/Xperia-tipo-dual-processor-drivers.git)
+1. [Xperia-tipo-dual-processor-drivers](https://github.com/vsbrt/Xperia-tipo-dual-processor-drivers.git)
 
 2. Fake-DPI-for-playstore (https://github.com/vsbrt/Fake-DPI-for-playstore.git)
 
